@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Elena+Eremenko's+Github+Profile..)](https://git.io/typing-svg)
 
-[![Mail Badge](https://img.shields.io/badge/-l_takhtarova?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/l_takhtarova) [![Mail Badge](https://img.shields.io/badge/-elenaeremenko1401@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elenafisenko1401@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-l_takhtarova-?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/l_takhtarova) [![Mail Badge](https://img.shields.io/badge/-elenaeremenko1401@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elenafisenko1401@gmail.com)
 <br> 
  <p align="center">
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
