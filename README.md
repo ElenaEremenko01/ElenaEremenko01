@@ -8,7 +8,7 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elena Eremenko</h1>
 <h3 align="center">Python-Developer Student.
- [![Mail Badge](https://img.shields.io/badge/logo-python-blue?logo=python)]
+ [<img src='https://img.shields.io/badge/logo-python-blue?logo=python' alt='github' height='40'>]
 </h3>
 
 
