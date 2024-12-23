@@ -1,67 +1,93 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Elena+Eremenko's+Github+Profile..)](https://git.io/typing-svg)
+<br clear="both">
 
-[![Mail Badge](https://img.shields.io/badge/-l_takhtarova?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/l_takhtarova) [![Mail Badge](https://img.shields.io/badge/-elenaeremenko1401@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elenafisenko1401@gmail.com)
-<br> 
- <p align="center">
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
+<h1 align="center">Привет👋 Меня зовут Елена!</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">Я начинающий Python-разработчик. Мой путь в IT начинается с университета "SkillPlace", где я прохожу обучение. До начала обучения на разработчика, я проходила курс по направлению Python and DataScience, в период с марта 2022 по сентябрь 2022. После обучения, несколько лет работала аналитком данных. В настоящий момент я нахожусь в декрете и решила попробовать себя в разработке, так как очень интересна сфера разработки.!<br><br>- 🔭 Изучаю курс Python-разработчик с 0 до Middle в университете Skillplace.<br>- 📚 Завершил курсы по направлению Python and Data Science!<br>- ⚡ Проходила курсы: Exel(Query), SQL(начальный этап).</p>
+
+###
+<h3 align="left">📕 Мои статьи</h3>
+
+- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
+- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elena Eremenko</h1>
-<h3 align="center">Python-Developer Student.
- [<img src='https://img.shields.io/badge/logo-python-blue?logo=python' alt='github' height='40'>]
-</h3>
 
+###
 
-<br>
+<h3 align="left">🛠 Технологии:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VasudevJaiswal) 
- 
-<!-- <a href='https://archiveprogram.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<br/> -->
+###
 
-## 🙋‍♂️ About Me
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
 
-🚀 Vasudev Jaiswal  
-*B.Tech in Computer Science and Engineering (Data Science)*  
-JSS Academy of Technical Education - Noida  
+###
 
-💡 **Projects:**
-1. **DevVani ChatApp:** Experience Real-Time Communication with our MERN-based Chat Application.
-2. **Sarvam AI:** Discover AI Excellence: Explore 100+ Platforms, Offers, and Solutions in One Seamless React Web App!
-5. **News App:** Developed a sophisticated application integrating real-time updates and user-friendly interfaces.
-6. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
+<h3 align="left">🔥   Моя статистика :</h3>
 
-🛠️ **Skills:**
-- **Languages:** Java, HTML, CSS, JavaScript, Python, C, SQL, Node JS
-- **Frameworks:** React JS, Express JS, TensorFlow
-- **Libraries:** NumPy, Pandas, Sci-kit Learn, Seaborn, Matplotlib
-- **Tools:** VS Code, Postman, MongoDB, GitHub, WordPress, Canva
-- **Deployment:** AWS, Docker, Kubernetes
-- **Other:** Big Data, Machine Learning, DBMS, Operating System, Data Structure, Computer Networks, AI
+###
 
-🏆 **Achievements/Co-Curricular:**
-1. Led a dynamic team to success in SIH'23, showcasing innovation and problem-solving prowess.
-2. Completed over 100 GeekforGeeks questions, demonstrating dedication to skill development.
-3. Recognized as a standout participant in the esteemed Inter-School Debate Competition, showcasing exceptional proficiency in communication.
-4. Strong Interest in International Relation 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
+###
 
-     
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-***
-     if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<p align ="center">
-<a href="https://www.buymeacoffee.com/VasudevJaiswal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-     </p>
- <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun thank you.</i>
-
-  <p align="center">
-    <a href="https://twitter.com/VasudevJaiswal_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
-    <a href="https://in.linkedin.com/in/VasudevJaiswal" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
-    <a href="mailto:vasujaiswal00@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
-    <a href="https://vasudevjaiswal.github.io/MyPortfolio/" alt="My site"><img 
-<br/>
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/VasudevJaiswal/count.svg) -->
-     
+###
